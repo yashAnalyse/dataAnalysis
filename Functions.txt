@@ -17,4 +17,4 @@
 8. count() : will give us total entities present in a data frame \
 9. isnull() : will give us true or false based on the value (if value is not null then true otherwise false)\
 10. sum() : will give us the total \
-11. value_counts() : will give us no of instances with unique value}
+11. value_counts() : will give us no of instances with unique value
