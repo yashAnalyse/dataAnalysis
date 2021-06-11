@@ -1,0 +1,20 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2580
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Data Analysis with Python - Pandas\
+\
+1. read_csv() : to read from csv file\
+2. head() : will give first five rows of data\
+3. Shape : will give total no of rows, columns\
+4. Columns : will give list of columns\
+5. Types : will give data types of each column\
+6. unique() : will give us all the unique values in a particular column\
+7. nunique() : will give us total no of unique values present in a particular column or in the entire data frame\
+8. count() : will give us total entities present in a data frame \
+9. isnull() : will give us true or false based on the value (if value is not null then true otherwise false)\
+10. sum() : will give us the total \
+11. value_counts() : will give us no of instances with unique value}
